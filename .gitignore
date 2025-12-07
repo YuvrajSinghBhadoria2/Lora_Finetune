@@ -1,0 +1,11 @@
+# Jupyter Notebooks
+*.ipynb
+
+# README files
+README.md
+
+# Folders
+Lora_Finetune/
+
+# macOS
+.DS_Store
